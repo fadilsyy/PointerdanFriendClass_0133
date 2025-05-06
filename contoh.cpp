@@ -20,4 +20,4 @@ public:
         return a * b;
     }
     //Lingkaran ol;
-};
+}; 
